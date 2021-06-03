@@ -1,18 +1,18 @@
 # Creational Pattern - Singleton Pattern.
 
-This is the first part in my series (23 GoF Design Patterns). My series will help you understand about design patterns by building useful things. For this reason, you can see the place in which each pattern could be applied. I want to focus on learning by doing instead of talking too much about theories. 
+This is the first part in my series (23 GoF Design Patterns). My series will help you understand about design patterns by building real projects. For this reason, you can see the place in which each pattern could be applied. I want to focus on learning by doing instead of talking too much about theories. 
 
 I'm Hiep. I work as a full-time software engineer. Most of my open-source projects are focused on one thing - to help people learn 📚.
 
-I created a git repository that help you understand about design patterns by building useful things.
+I created a git repository that help you understand about design patterns by building real projects.
 
 > Github link: 
 >
 > https://github.com/hieptl/javascript-dessign-patterns
 > 
-> If you feel the repository is useful, please help me share the post and give me a Github's star. It will make me feel motivation to work even harder. I will try to make many open sources and share to the community <3.
+> If The repository is useful, please help me share the post and give me a Github's star. It will make me feel motivation to work even harder. I will try to make many open sources and share to the community :heart:.
 >
-> I created a post to share about __learning react by building Netflix__, I hope that it is useful for you.
+> I created a post to share about __learning React by building Netflix__, I hope that it is useful for you.
 > 
 > https://dev.to/hieptl/learn-react-by-building-netflix-1127
 
@@ -99,7 +99,7 @@ Figure 1. Singleton Pattern - Result.
 The above image describes about the first logger instance and the second logger instance are the same.
 On the other hand, our Logger class can display the information in different formats.
 
-I hope that the post can help you understand about single pattern. 
+I hope that the post can help you understand about singleton pattern. 
 
 Thanks and Best Regards, \
 Hiep.
