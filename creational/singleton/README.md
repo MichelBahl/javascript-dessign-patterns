@@ -12,9 +12,16 @@ I created a git repository that help you understand about design patterns by bui
 > 
 > If The repository is useful, please help me share the post and give me a Github's star. It will make me feel motivation to work even harder. I will try to make many open sources and share to the community :heart:.
 >
-> I created a post to share about __learning React by building Netflix__, I hope that it is useful for you.
+> I also created some series that help you improve your practical skills: 
+> 
+> __1. Learn React By Buiding Netflix__ 
 > 
 > https://dev.to/hieptl/learn-react-by-building-netflix-1127
+>
+> __2. Some Mistakes When Using This Keyword in Javascript and Solutions__
+>
+> https://dev.to/hieptl/some-mistakes-when-using-this-keyword-in-javascript-and-solutions-4j77
+>
 
 
 ## __Table of Contents__
