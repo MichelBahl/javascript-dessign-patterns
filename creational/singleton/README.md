@@ -25,11 +25,6 @@ I created a git repository that help you understand about design patterns by bui
 |3  | [Building Logger.](#building-logger) |
 |4  | [Result.](#result) |
 
-## __Table of Images.__
-| No. | Topics |
-| --- | --------- |
-|1  | [Figure 1: Singleton Patter - Result.](#figure1) |
-
 <a id="definition"></a>
 ## 1. Definition.
 
@@ -91,12 +86,19 @@ If the instance was not created, we would create a new instance and assign to ``
 <a id="result"></a>
 ## 4. Result.
 
-<a id="figure1"></a>
-<img src="../../images/singleton.png" alt="singleton" width="666"/>
+```js
+create new logger object for the first time
+return previously created logger object instead of creating a new one
+are firstLogger and secondLogger the same ? true
+{ userName: 'hieptl', job: 'Software Engineer' }
+┌─────────┬──────────┬─────────────────────┐
+│ (index) │ userName │         job         │
+├─────────┼──────────┼─────────────────────┤
+│    0    │ 'hieptl' │ 'Software Engineer' │
+└─────────┴──────────┴─────────────────────┘
+```
 
-Figure 1. Singleton Pattern - Result.
-
-The above image describes about the first logger instance and the second logger instance are the same.
+The above result describes about the first logger instance and the second logger instance are the same.
 On the other hand, our Logger class can display the information in different formats.
 
 I hope that the post can help you understand about singleton pattern. 

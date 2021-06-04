@@ -25,11 +25,6 @@ I created a git repository that help you understand about design patterns by bui
 |3  | [Building Post Cloner.](#building-post-cloner) |
 |4  | [Result.](#result) |
 
-## __Table of Images.__
-| No. | Topics |
-| --- | --------- |
-|1  | [Figure 1: Prototype Pattern - Result.](#figure1) |
-
 <a id="definition"></a>
 ## 1. Definition.
 
@@ -82,16 +77,18 @@ The most important part is about the __clone__ method. The method will help us t
 <a id="result"></a>
 ## 4. Result.
 
-<a id="figure1"></a>
-<img src="../../images/prototype.png" alt="prototype" width="666"/>
+```js
+The first post: 
+Post { title: 'Post Title', content: 'Post Content' }
+The second post: 
+Post { title: 'Post Title', content: 'Post Content' }
+```
 
-Figure 1. Prototype Pattern - Result.
-
-The above image describes that the content of the first post and the content of the second post are the same after running the code. We implemented the idea by using Prototype pattern.
+The above result describes that the content of the first post and the content of the second post are the same after running the code. We implemented the idea by using Prototype pattern.
 
 By using design patterns, we can understand the core concepts and make our code become more readable and cleaner. I hope that the post can help you understand about Prototype pattern. 
 
-Thanks and Best Regards, \
+Thanks and Best Regards,
 Hiep.
 
 
