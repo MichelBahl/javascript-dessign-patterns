@@ -14,7 +14,7 @@ I created a git repository that help you understand about design patterns by bui
 >
 > I also created some series that help you improve your practical skills :heart:
 > 
-> __1. Learn React By Buiding Netflix__ 
+> __1. Learn React By Building Netflix__ 
 > 
 > https://dev.to/hieptl/learn-react-by-building-netflix-1127
 >
